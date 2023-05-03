@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(45, 45, 45);
+}
+
+header{
+    padding: 70px 0;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+}
